@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #将数据按6：2：2分为训练集，验证集和测试集
-
+#If you need our dataset, please email me 
 import os
 import numpy as np
 from torch.utils.data import DataLoader,Dataset
